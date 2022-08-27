@@ -7,5 +7,5 @@ The Google Data Analytics Course on coursera had a case study/capstone project t
 
 The prompt was to analyze and gain an insight on a Bellabeat (fitness wristband) product by analyzing a given dataset from Fitbit.
 
-This README file is to practice using Github in order to share my thought processes and findings regarding this capstone project.
+This file is to practice using Github in order to share my thought processes and findings regarding this capstone project.
 
